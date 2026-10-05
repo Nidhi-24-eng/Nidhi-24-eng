@@ -1,15 +1,13 @@
 <!-- Banner -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f2937&height=200&section=header&text=Hey!%20I%20am%20Nidhi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer-in-the-making&descAlignY=58&descSize=18)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Graph+Neural+Networks+%7C+LLM+Agents;Physics-Informed+AI+%26+Fraud+Detection;Building+production-grade+ML+pipelines)](https://git.io/typing-svg)
+<img src="assets/header.svg" alt="Hey! I am Nidhi" width="100%" />
 
 </div>
 
 # Nidhi Vishwakarma
 
-### B.Tech CSE (AI & Data Science)| ML Engineer | GNN & LLM Enthusiast
+### B.Tech CSE (AI & Data Science) @ SATI Vidisha | ML Engineer | GNN & LLM Enthusiast
 
 Welcome to my GitHub profile! I'm Nidhi, an Artificial Intelligence and Data Science engineering student with hands-on experience designing, training, and deploying end-to-end machine learning pipelines, graph neural networks (GNNs), and LLM agent workflows. I love building production-grade AI systems, from physics-informed material risk engines to real-time fraud detection on imbalanced data.
 
@@ -17,7 +15,7 @@ Welcome to my GitHub profile! I'm Nidhi, an Artificial Intelligence and Data Sci
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-vishwakarma-a892b233a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhivishwakarma066@gmail.com)
-
+![Location](https://img.shields.io/badge/Sagar,_MP-India-238636?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -28,7 +26,7 @@ Welcome to my GitHub profile! I'm Nidhi, an Artificial Intelligence and Data Sci
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nidhi-24-eng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi-24-eng&theme=github-dark-blue&hide_border=true&background=0d1117" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Nidhi-24-eng&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-24-eng&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
@@ -142,6 +140,6 @@ I'm open to internships, collaborations, and open-source work in **ML, graph lea
 
 📧 **nidhivishwakarma066@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nidhi-vishwakarma-a892b233a/)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:000000&height=100&section=footer)
+<img src="assets/footer.svg" alt="footer" width="100%" />
 
 </div>
