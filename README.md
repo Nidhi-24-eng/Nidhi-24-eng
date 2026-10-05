@@ -9,7 +9,7 @@
 
 # Nidhi Vishwakarma
 
-### B.Tech CSE (AI & Data Science) @ SATI Vidisha | ML Engineer | GNN & LLM Enthusiast
+### B.Tech CSE (AI & Data Science)| ML Engineer | GNN & LLM Enthusiast
 
 Welcome to my GitHub profile! I'm Nidhi, an Artificial Intelligence and Data Science engineering student with hands-on experience designing, training, and deploying end-to-end machine learning pipelines, graph neural networks (GNNs), and LLM agent workflows. I love building production-grade AI systems, from physics-informed material risk engines to real-time fraud detection on imbalanced data.
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Nidhi, an Artificial Intelligence and Data Sci
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-vishwakarma-a892b233a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhivishwakarma066@gmail.com)
-![Location](https://img.shields.io/badge/Sagar,_MP-India-238636?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 
 </div>
 
